@@ -39,6 +39,10 @@ export default {
                         },
                     ],
                 },
+                {
+                    name: 'myLatexField',
+                    type: 'latex'
+                  }
             ],
         },
     ],
